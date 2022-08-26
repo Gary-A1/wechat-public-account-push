@@ -3,9 +3,9 @@ export const config = {
     // 公众号appId
     appId: "wx0b34c6dae61c0624",
     // 公众号appSecret
-    appSecret: "24656e49d192911d076d7af3dfa2b750",
+    appSecret: "69a73f67f2bc38d5b0f71ac024a89352",
     // 模板消息id
-    templateId: "gZ8okuTovHtBqKZMBGruP2RjMDO9-oe6Hk2c2X7FI0Q",
+    templateId: "q6DgH93GYGO8OiJYe7YRRM75DJBWLtjZHN19ApD9nGE",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["olsFB5255W4IqzfAKHalubfCwjW4"],
      
@@ -17,12 +17,9 @@ export const config = {
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "老婆", "year": "2001", "date": "06-05", "type": 'r'},
-      {"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2020-02-12",
-    // 结婚纪念日
-    marryDate: "2020-01-04"
+    loveDate: "2020-02-12"
     }
 
 // {{date.DATA}}  
