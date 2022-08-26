@@ -5,7 +5,7 @@ export const config = {
     // 公众号appSecret
     appSecret: "69a73f67f2bc38d5b0f71ac024a89352",
     // 模板消息id
-    templateId: "dH8fT-1APwUSJXgxzp3SLFaHThfBcIzVkr1XZf5XYdQ",
+    templateId: "M6OvkBx5y7DxdO1yJU-E9bSaAEGiMlCcOogd9jsJFm0",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["olsFB5255W4IqzfAKHalubfCwjW4","olsFB54xABre8MIhA3qbmjG8RGjo"],
      
@@ -16,7 +16,7 @@ export const config = {
     city: "赣州",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "2001", "date": "06-05", "type": 'r'},
+      {"name": "老婆", "year": "2001", "date": "06-05", "type": 'new'},
       {"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
     ],
     // 在一起的日子，格式同上
